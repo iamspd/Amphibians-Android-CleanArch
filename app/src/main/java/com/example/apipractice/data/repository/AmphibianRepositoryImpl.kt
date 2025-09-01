@@ -1,7 +1,5 @@
 package com.example.apipractice.data.repository
 
-import android.util.Log
-import androidx.annotation.VisibleForTesting
 import com.example.apipractice.data.network.ApiService
 import com.example.apipractice.data.network.dto.AmphibianDto
 import com.example.apipractice.domain.model.Amphibian

@@ -1,9 +1,7 @@
 package com.example.apipractice.ui.home
 
-import android.util.Log
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
-import com.example.apipractice.domain.repository.AmphibianRepository
 import com.example.apipractice.domain.usecase.GetAmphibianUseCase
 import com.example.apipractice.utils.Result
 import kotlinx.coroutines.flow.MutableStateFlow
