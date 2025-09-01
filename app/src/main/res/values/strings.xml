@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">APIPractice</string>
+    <string name="retry_button">Retry</string>
+    <string name="connection_error_text">Connection Error! \nPlease check your network.</string>
+</resources>
